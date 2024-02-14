@@ -1,0 +1,451 @@
+Year,Quarter,Month,Day,Country/Region,Aircraft Manufacturer,Aircraft,Location,Operator,Sum of Ground,Sum of Fatalities (air),Sum of Aboard
+1928,Qtr 2,June,22,Kansas,Douglas,Douglas M 4NC1059,Lebo Kansas,Transport Air National,0,1,1
+1938,Qtr 1,March,1,Cailifornia,Douglas,Douglas DC 2,Near Wawona Cailifornia,Air Western and Continental Trans,0,9,9
+1938,Qtr 3,August,10,Japan,Douglas,Douglas DF 151J,Shishijima Japan,Nippon Dai,0,6,6
+1939,Qtr 1,March,26,Oklahoma,Douglas,Douglas DC 2,Oklahoma City Oklahoma,Airlines Braniff,0,8,12
+1943,Qtr 1,January,15,Dutch,Douglas,Douglas C 54A42,Near Paramarino Dutch,Forces Air Army U.S. - GuyanaMilitary,0,35,35
+1943,Qtr 3,July,28,Kentucky,Douglas,Douglas DC 3NC16014,Trammel Kentucky,Airlines American,0,20,22
+1945,Qtr 1,March,27,off,Douglas,Douglas C 47A,Coral Sea off,Force Air U.S. - AustraliaMilitary,0,24,24
+1945,Qtr 2,May,30,Ivory,Douglas,Douglas C 47B,Off Drewin Ivory,Forces Air Army U.S. - CoastMilitary,0,21,21
+1945,Qtr 4,October,20,Atlantic,Douglas,Douglas C 47BA65,Timor Sea Atlantic,Force Air Australian Royal - OceanMilitary,0,25,25
+1945,Qtr 4,October,24,Malta,Douglas,Douglas C 47 Skytrain (DC,Valetta Malta,BOAC,0,9,16
+1945,Qtr 4,November,13,Philippines,Douglas,Douglas C 48VH,Near Tacloban Philippines,Airways National Australian,0,16,17
+1946,Qtr 1,January,6,Alabama,Douglas,Douglas DC 3N21786,Birmingham Alabama,Airlines Central Pennsylvania,0,3,11
+1946,Qtr 2,April,30,'-,Douglas,Douglas C 47A FZ559,Pindi-Khut  -,Force Air Royal,0,12,12
+1946,Qtr 2,June,9,Nigeria,Douglas,Douglas C 47 DakotaKG747,Near Abeokuta Nigeria,Force Air -Royal Military,0,18,18
+1946,Qtr 4,November,26,Costa,Douglas,Douglas DC 3 (C,San Jose Costa,LACSA  Costarricenses Aéreas RicaLineas,0,22,22
+1947,Qtr 1,February,5,Delaware,Douglas,Douglas DC 3NC54451,Harrington Delaware,Freight Air International,0,1,3
+1947,Qtr 1,February,26,Pacific,Douglas,Douglas C 47BKK120,China Sea Pacific,Force Air Royal - OceanMilitary,0,12,12
+1947,Qtr 2,April,8,Venezuela,Douglas,Douglas C 47AYV,Near Caracas Venezuela,Venezolana Aeropostal Linea,0,27,27
+1947,Qtr 2,May,29,Iceland,Douglas,Douglas DC 3TF,Hjedinsfjordur Iceland,Flugefelag,0,25,25
+1947,Qtr 2,May,29,Queens,Douglas,Douglas C 54BNC30046,La Guardia Airport Queens,New York United Air Lines,0,43,48
+1947,Qtr 4,December,10,Labrador,Douglas,Douglas C 54D,Near Goose Bay Labrador,Force Air U.S. - Military,0,23,29
+1948,Qtr 1,January,11,Dominican,Douglas,Douglas DC 3HI,Ciudad Havajillo Dominican,RepublicDominicana,0,32,32
+1948,Qtr 1,March,2,London,Douglas,Douglas DC 3OO,Heathrow Airport London,England Sabena,0,20,22
+1948,Qtr 2,May,13,Belgian,Douglas,Douglas DC 4,Near Magazini Belgian,(Zaire)Sabena Congo,0,31,32
+1948,Qtr 3,July,4,Middlesex,Douglas,Douglas DC 6 / RAF YorkSE,Northolt Middlesex,England Scandinavian Airlines (SAS),0,39,39
+1948,Qtr 4,December,21,Hong,Douglas,Douglas C 54B,Basalt Island Hong,Corporation Aviation National KongChina,0,33,33
+1949,Qtr 1,February,19,Warks,Douglas,Douglas DC 3 / Avro AnsonG,Near Coventry Warks,England British European Airways / Military - British,0,14,14
+1949,Qtr 3,August,9,Oman,Douglas,Douglas C 47BKN336,Salalah Oman,Force Air Royal - Military,0,12,12
+1949,Qtr 3,August,27,Zaire,Douglas,Douglas C 47B,Leopoldville Zaire,Sabena,0,5,20
+1949,Qtr 3,September,9,PQ,Douglas,Douglas DC 3CF,Sault-aux-Cochons PQ,Canada Canadian Pacific Air Lines,0,23,23
+1949,Qtr 4,December,12,D.C.Capital,Douglas,Douglas DC 3,Washington D.C.Capital,Airlines,0,6,23
+1950,Qtr 1,January,24,Air,Douglas,Douglas DC 3PI,Iloilo Air,Lines,0,4,4
+1950,Qtr 1,January,26,Yukon,Douglas,Douglas C 54D,Near Snag Yukon,Force Air U.S. - TerritoryMilitary,0,44,44
+1950,Qtr 1,March,25,Turkey,Douglas,Douglas DC 3TC,Ankara Turkey,Yollairi Hava Devlet,0,15,15
+1950,Qtr 2,June,23,18,Douglas,Douglas DC 4N95425,Lake Michigan 18,Michigan       Harbor Benton of NNW Northwest Orient Airlines,0,58,58
+1950,Qtr 3,July,18,Angola,Douglas,Douglas DC 3CR,Near Bocoio Angola,Airlines Angola DTA,0,9,9
+1950,Qtr 3,September,20,Marshall,Douglas,Douglas R5D 356496,Kwajalein Marshall,Navy U.S. - IslandsMilitary,0,26,26
+1950,Qtr 4,November,25,Bhutan,Douglas,Douglas C 47AVT,Khitka Bhutan,Indamer,0,3,3
+1951,Qtr 1,January,13,Besar,Douglas,Douglas DC 3VR,Mt. Bukit Besar,Thailand Air Carriers,0,10,10
+1951,Qtr 1,February,3,Buea,Douglas,Douglas DC 4F,Near Mt. Cameroon Buea,British Cameroons Air France,0,29,29
+1951,Qtr 4,October,27,Guatemala,Douglas,Douglas C 47FAGO961,Near Flores Guatemala,Force Air Guatemalan - Military,0,27,29
+1952,Qtr 4,November,6,Chad,Douglas,Douglas C 54B,Lake Chad Chad,Transport de Aeromaritime Union,0,5,6
+1952,Qtr 4,December,6,Bermuda,Douglas,Douglas DC 4CU,Off Bermuda-Kindley Field Bermuda,Aviacion de Cubana,0,37,41
+1953,Qtr 1,January,26,Sardinia,Douglas,Douglas DC 3I,Sinnai Sardinia,Italy Linee Aeree Italiane,0,19,19
+1953,Qtr 2,June,18,Tokyo,Douglas,Douglas C 124A Globemaster II51,Tachikawa AFB Tokyo,Japan Military - U.S. Air Force,0,129,129
+1953,Qtr 3,July,12,325,Douglas,Douglas DC 6AN90806,Pacific Ocean 325,Lines Air IslandTransocean Wake of east miles,0,58,58
+1954,Qtr 1,January,2,Afghanistan,Douglas,Douglas DC 3?,Herat Afghanistan,Airlines Afghan Ariana,0,21,21
+1954,Qtr 1,January,12,Czech,Douglas,Douglas C 47 Skytrain (DC,Prague Czech,Airlines RepublicCzech,0,13,18
+1954,Qtr 4,November,16,de,Douglas,Douglas DC 3FAP,Jirishanga de,Peru          Pasco TAM (Brazil),0,24,24
+1954,Qtr 4,December,12,Slovakia,Douglas,Douglas C 47AOK,Bratislava Slovakia,Aerolinie Ceskoslovenské,0,4,4
+1955,Qtr 3,August,30,Nepal,Douglas,Douglas C 47AVT,Simra Nepal,Airlines Kalinga,0,2,3
+1955,Qtr 4,November,17,Washingon,Douglas,Douglas C 54N88852,Seattle Washingon,Peninsular,0,28,74
+1957,Qtr 2,May,13,Greenland,Douglas,Douglas DC 4N68736,Narsarressuak Greenland,Airways Overseas U.S.,0,2,3
+1958,Qtr 2,April,21,10,Douglas,Douglas DC 7 / F,Near Sloan 10,Nevada      Vegas Las of SW miles United Air Lines / Military - U.S. Air Force,0,49,49
+1958,Qtr 3,July,9,Baangladesh,Douglas,Douglas C 47AVT,Dhaka Baangladesh,Airlines Indian,0,3,3
+1958,Qtr 3,August,11,"Brazil	Loide",Douglas,Douglas DC 4PP,"Near Belem Brazil	Loide",Nacional Aéreo,0,10,11
+1958,Qtr 4,December,26,Zimbabwe,Douglas,Douglas DC 6BF,Salisbury Zimbabwe,Zimbabwe)Union Aeromaritime de Transport          (Harare,0,3,70
+1959,Qtr 2,May,15,Aregntina,Douglas,Douglas DC 3LV,Off Mar del Plata Aregntina,Argentinas Aerolineas,0,10,10
+1960,Qtr 3,July,15,Ethiopia,Douglas,Douglas DC 3ET,Near Jima Ethiopia,Airlines Ethiopian,0,1,11
+1960,Qtr 3,September,19,Guam,Douglas,Douglas DC 6ABN90779,Agana Guam,Mariana Islands World Airways,0,80,94
+1961,Qtr 1,January,3,Finland,Douglas,Douglas DC 3OH,Koivulahti Finland,Finnair,0,25,25
+1961,Qtr 3,September,6,SC,Douglas,Douglas C 47A (DC,Concordia SC,Brazil REAL Transportes Aereos,0,4,4
+1961,Qtr 3,September,17,Zambia,Douglas,Douglas DC 6BSE,Ndola Zambia,Sweden Transair,0,16,16
+1963,Qtr 1,March,15,Volcano,Douglas,Douglas DC 6BCP,Near Tacora Volcano,Peru Lloyd Aereo Boliviano,0,39,39
+1963,Qtr 2,June,3,116,Douglas,Douglas DC 7CFN290,Pacific Ocean 116,Alaska      Island Annette of WSW miles Northwest Orient Airlines,0,101,101
+1963,Qtr 4,November,8,Aaland,Douglas,Douglas DC 3OH,Mariehamn Aaland,Finland          Island Finnair,0,22,24
+1964,Qtr 1,March,10,Massachutes,Douglas,Douglas DC 4N384,Boston Massachutes,Cargo - Airways Slick,0,3,3
+1964,Qtr 2,April,12,Somalia,Douglas,Douglas DC 3VR,Hargeisa Somalia,Airways Aden,0,15,15
+1964,Qtr 2,June,13,Saudia,Douglas,Douglas C 47AHZ,Jeddah Saudia,Saudia Arabia          ArabiaJeddah Saudi Arabian Airlines,0,2,2
+1964,Qtr 4,October,2,Granada,Douglas,Douglas DC 6BF,Near Trevelez Granada,Spain Union des Transportes Aeriens,0,80,80
+1964,Qtr 4,November,29,Democratic,Douglas,Douglas DC 4OO,Leopoldville Democratic,(BIAS)? Congo CongoAir the of Republic,0,6,14
+1965,Qtr 1,February,8,Wantagh,Douglas,Douglas DC 7BN849D,Off Jones Beach Wantagh,New York Eastern Air Lines,0,84,84
+1965,Qtr 2,April,14,Channel,Douglas,Douglas C 47BG,Jersey Channel,UKBritish United Airways          Islands,0,26,27
+1965,Qtr 3,September,11,Phillipines,Douglas,Douglas DC 3API,Near La Carlota Phillipines,Airways Orient Filipinas,0,11,11
+1966,Qtr 1,January,1,Sumatra,Douglas,Douglas DC 3 / Douglas DC,Near Palembang Sumatra,Indonesia Garuda  Indonesia Airlines / Garuda Indonesia Airlines,0,34,34
+1966,Qtr 1,January,22,Haiti,Douglas,Douglas DC 3N4662,Port-au-Prince Haiti,COHATA,0,30,35
+1967,Qtr 3,July,19,Malagasy,Douglas,Douglas DC 4,Tananarive Malagasy,Madagascar RepublicAir,0,42,42
+1968,Qtr 1,March,9,Reunion,Douglas,Douglas DC6B43748,Near Saint Denis Reunion,Force Air French - Military,0,19,20
+1969,Qtr 2,April,24,Ghana,Douglas,Douglas DC 39G,Near Takoradi Ghana,Airways Ghana,0,1,33
+1970,Qtr 1,January,13,Western,Douglas,Douglas DC 35W,Faleolo Western,Airlines SamoaPolynesian,0,32,32
+1970,Qtr 3,July,3,Alakska,Douglas,Douglas DC 3N154R,McGrath Alakska,Service Flying Reeder,0,5,27
+1972,Qtr 4,October,2,Cambodia,Douglas,Douglas DC 3XW,Kampot Cambodia,Air Cambodia,0,9,9
+1973,Qtr 2,May,29,Prov.,Douglas,Douglas DC 3CF,Near Rimouski Prov.,Canada          Quebec Air Gaspé,0,4,4
+1974,Qtr 2,April,4,Botswana,Douglas,Douglas DC 4A2,Francistown Botswana,Services Air Wenela,0,78,84
+1976,Qtr 3,August,9,"Spain
+	
+Moron",Douglas,Douglas C 54ET4/11,"Moron AFB Spain
+	
+Moron",SpainMoron AFB          AFB,0,12,32
+1981,Qtr 4,November,30,Saint,Douglas,Douglas DC 6AN3486F,Castries Saint,Airways IslandGuyana Lucia,0,3,3
+1908,Qtr 3,September,17,Virginia,Wright Flyer,Wright Flyer III?,Fort Myer Virginia,Army U.S. - Military,0,1,2
+1912,Qtr 3,July,12,New,Dirigible?,Dirigible?,Atlantic City New,Navy U.S. - JerseyMilitary,0,5,5
+1913,Qtr 3,August,6,British,Curtiss,Curtiss seaplane?,Victoria British,Canada          Columbia Private,0,1,1
+1913,Qtr 4,October,17,Germany,Zeppelin,Zeppelin L 2 (airship)?,Near Johannisthal Germany,Navy German - Military,0,28,28
+1916,Qtr 3,July,28,Bulgeria,Schutte,Schutte  Lanz S,Near Jambol Bulgeria,Army German - Military,0,20,20
+1917,Qtr 2,May,14,North,Zeppelin,Zeppelin L 22 (airship)?,Near Texel Island North,Navy German - SeaMilitary,0,21,21
+1919,Qtr 2,May,25,Ohio,De Havilland,De Havilland DH 461,Cleveland Ohio,Service Mail Aerial US,0,1,1
+1919,Qtr 3,August,2,Italy,Caproni,Caproni Ca.48?,Verona Italy,Company Caproni,0,14,14
+1919,Qtr 4,October,20,Kent,De Havilland,De Havilland DH 4G,English Channel off Forkstone Kent,Travel and Transport Aircraft,0,0,0
+1919,Qtr 4,December,11,Surrey,De Havilland,De Havilland DH 4G,Catherham Surrey,UKAircraft Travel Transport,0,1,1
+1920,Qtr 3,July,20,Columbia,Farman,Farman F 40?,Cartagena Columbia,Aérea Navegación de Colombiana Compañia,0,1,1
+1920,Qtr 4,October,5,Spain,Breguet,Breguet 14F ALTA,Valencia Spain,Airlines Latecoere,0,2,2
+1921,Qtr 2,April,6,Australia,Avro,Avro 504H3021,Point Cook Australia,Force Air Australian Royal - Military,0,2,2
+1921,Qtr 2,April,21,NYUS,De Havilland,De Havilland DH 4160,Mitchel Field NYUS,Service Mail Aerial,0,1,1
+1922,Qtr 3,July,16,Lorraine,Potez,Potez 29F FREI,Near Saverne Lorraine,France Compagnie Franco-Roumaine de Navigaation Aerienne,0,5,5
+1922,Qtr 4,October,2,Italyde,De Havilland,de Havilland DH 9G,Venice Italyde,Service Air Havilland,0,4,4
+1922,Qtr 4,October,25,Morocco,Breguet,Breguet 14?,Larache Morocco,Aeriens Express Grands,0,2,2
+1923,Qtr 2,May,14,Picrdie,Farman,Farman F 60 GoliathF,Near Amiens Picrdie,France Grands Express Aeriens (Air Union),0,6,6
+1923,Qtr 3,August,27,Romania,Blériot Spad,Blériot Spad 46F AEGN,Bucharest Romania,Roumaine France Campagnie,0,2,2
+1923,Qtr 3,August,27,United,Farman F.60,Farman F.60 GoliathF AECB,East Mallling United,Union KingdomAir,0,1,11
+1923,Qtr 3,September,14,Buckinghamshire,De Havilland,de Havilland DH 34G,Near Ivinghoe Buckinghamshire,England Daimler Airways,0,5,5
+1924,Qtr 2,June,8,Colombia,Junkers,Junkers F 13A16,Barranquilla Colombia,SCADTA,0,5,5
+1925,Qtr 1,March,22,Georgia,Junkers,Junkers F 13R,Near Tiflis Georgia,USSRZakavia,0,5,5
+1925,Qtr 3,July,24,Hungary,Potez,Potez IX?,Budapest Hungary,CIDNA,0,1,1
+1925,Qtr 4,November,14,Mauritania,Breguet,Breguet 14F AEGZ,Nouadhibou Mauritania,Latecoere Aeriennes Lignes,0,1,1
+1926,Qtr 3,July,3,Czechoslovakia,Caudron,Caudron C 61F,Rossaugpt Czechoslovakia,Aérienne Navigation de Internationale Compagnie,0,6,6
+1926,Qtr 4,December,16,Oregon,Ryan,Ryan M 12,Medford Oregon,Transport Air Pacific,0,1,1
+1927,Qtr 1,March,24,Qld,De Havilland,de Havilland DH 9CG,Tambo Qld,Australia Qantas,0,3,3
+1927,Qtr 2,April,15,Idaho,"Swallow
+Swallow?","Swallow
+Swallow?",King Hill Idaho,Lines Air Varney,0,1,1
+1927,Qtr 2,May,2,Algeria,SPCA Meteore,SPCA Meteore 63F AIFN,Algiers Algeria,Union Air,0,1,3
+1927,Qtr 3,September,3,Connecticut,Fokker UniversalNC52,"Fokker UniversalNC52  	
+NC52",Willington Connecticut,Transport Air Colonial,0,1,1
+1928,Qtr 1,January,16,Uruguay,Latecoere,Latecoere 25F AIKG,Solis Uruguay,Aeropostale,0,2,2
+1928,Qtr 1,February,26,Nebraska,Boeing,Boeing 40NC280,Marquette Nebraska,Transport Air Boeing,0,1,2
+1928,Qtr 2,May,7,"Brazil
+Florianopolis",Latecoere,Latecoere 26F AIMQ,"Florianopolis Brazil
+Florianopolis",BrazilFlorianopolis,0,1,5
+1928,Qtr 2,May,12,Minnesota,Ford,Ford 4NC1492,Dearborn Minnesota,Inc. Freight Air Ford,0,2,2
+1928,Qtr 3,July,24,Netherlands,Fokker (KLM),Fokker (KLM) F.IIIH NABR,Waalhaven Netherlands,Airlines Dutch Royal KLM,0,1,6
+1928,Qtr 3,August,25,BC,Ford,Ford 4 AT,Near Port Townsend BC,Canada British Columbia Airways,0,7,7
+1928,Qtr 4,December,1,Texas,Ford,Ford 4 AT,Spur Texas,Co. Transport Air Sunbeam,0,5,5
+1928,Qtr 4,December,10,Washington,Ford,Ford Tri motor 4NC7687,Spokan Washington,Airways Spokane,0,5,5
+1928,Qtr 4,December,23,Tennessee,Fairchild,Fairchild FC 2?,Chattanooga Tennessee,Airlines Interstate,0,4,4
+1929,Qtr 1,January,25,Greece,CMASA,CMASA WalI AZDA,Near Corfu Greece,Aeroespresso,0,2,9
+1929,Qtr 1,January,31,West,Travel Air,Travel Air 4000NC6480,Morgantown West,Company Transportation VirginiaSkyline,0,1,1
+1929,Qtr 1,March,30,California,Fokker,Fokker F VIIANC7888,Near Beaumont California,Airlines Standard New,0,4,4
+1929,Qtr 2,May,9,Mexico,Ford,Ford Tri motor 4M,Tampico Mexico,Mexicana,0,5,5
+1929,Qtr 2,May,18,,Fokker,Fokker F IIIH,Tököl,HungaryMALERT Pest,0,2,2
+1929,Qtr 2,June,13,Cuba,Fokker,Fokker F XNC9700,Santiago de Cuba Cuba,Airways American Pan,0,2,5
+1929,Qtr 2,June,29,Bavaria,Domier Delphin III (flying,Domier Delphin III (flying boat)D 1620,Near Lindau Bavaria,Germany Bodensee Aerolloyd,0,5,5
+1929,Qtr 3,August,24,Russia,Kalinin,Kalinin K 4CCCP,Sochi Russia,Ukvozduchput,0,1,1
+1929,Qtr 3,September,3,near,Ford,Ford 5 AT,Mt. Taylor near,New Mexico          Grants Trans Continental Air Transport,0,8,8
+1929,Qtr 3,September,6,Iran,De Havilland,de Havilland DH 66 HerculesG,Jask Iran,Airways Imperial,0,3,5
+1929,Qtr 3,September,14,Ontario,Travel Air,Travel Air 6000CF ABE,Saint Catharines Ontario,Skyways,0,6,6
+1929,Qtr 4,November,20,East,Savoia Marchetti,Savoia Marchetti S55I TACO,Terranova Pausania East,Mediterranea Aerea Società SardiniaS.A.M.,0,1,12
+1930,Qtr 1,January,13,Madagascar,Farman,Farman 190F AJJK,Antananarivo Madagascar,Orient Air,0,3,3
+1930,Qtr 1,January,27,Missouri,Travel Air,Travel Air A6000A?,Kansas City Missouri,Corporation) Aviation (Universal Airlines  Central,0,5,5
+1930,Qtr 3,July,7,Denmark,Dornier,Dornier WalD 864,Bornholm Denmark,Lufthansa Deutsche,0,5,8
+1930,Qtr 3,September,25,Alberta,Boeing,Boeing 40CF AIN,Edmonton Alberta,Canada Western Canada Airways,0,3,3
+1930,Qtr 4,November,7,Brazil,Junkers,Junkers G 24P,Off of Santos Brazil,Condor Syndicato,0,1,9
+1930,Qtr 4,December,9,China,Loening,Loening C W Air Yaht?,Shanghai China,Corporation Aviation National China,0,4,6
+1931,Qtr 3,September,15,Oltenia,Fokker,Fokker F VIIb,Near Craiova Oltenia,Romania CIDNA,0,6,6
+1931,Qtr 4,November,13,South,De Havilland,De Havilland DH.80ZS ACD,Sir Lowry's pass South,Airways AfricaUnion,0,3,3
+1932,Qtr 1,January,21,Ilinois,Stinson,Stinson SM 2ANC443H,Colvin Park Ilinois,Airways Northwest,0,1,1
+1932,Qtr 1,February,1,Florida,Fairchild?,Fairchild?,Off Miami Florida,Airways Bimini,0,5,5
+1932,Qtr 1,February,2,Michigan,Stearman,Stearman C 3MBNC6411,Marcellus Michigan,Airlines Transamerican,0,1,1
+1932,Qtr 4,October,26,Bolivia,Ford,Ford Tri motor 5?,Villa Monte Bolivia,Boliviano Aero Lloyd,0,2,2
+1932,Qtr 4,November,25,Arkansas,Travel Air 6000,Travel Air 6000 NC369M,Marianna Arkansas,Airways Hunter,0,2,2
+1933,Qtr 2,April,23,Calabria,Cams,Cams 53 1F,Near Castrovillari Calabria,Italy Air Orient,0,5,8
+1933,Qtr 3,September,12,Yugoslavia,Farman,Farman F 306YU,Near Ljubljana Yugoslavia,Aeroput,0,8,8
+1933,Qtr 4,November,21,Ukraine,Kalinin,Kalinin K 7?,Near Kharkov Ukraine,USSRKalinin,0,14,20
+1934,Qtr 1,March,22,Peru,Ford,Ford 5 AT,Near Lima Peru,Airlines Grace American Pan,0,3,15
+1934,Qtr 4,November,15,Montana,Stinson,Stinson SM 6000,Amazonia Montana,Transport Air Rapid,0,2,2
+1935,Qtr 1,February,12,Californiia,Goodyear,Goodyear  Zeppelin U.S.S. Macon (airship)ZRS,Off Point Sur Californiia,Navy US - Military,0,2,83
+1935,Qtr 1,March,15,Egypt,de Havilland Dragon,de Havilland Dragon 1SU ABI,El Arish Egypt,Misrair,0,3,6
+1935,Qtr 3,July,19,Mississippi,General,General 102 ENC,Off Chandeleur Island Mississippi,Corporation Service Air Wedell-Williams,0,2,2
+1935,Qtr 3,September,13,Panama,Ford,Ford Tri Motor?,Near Tambo Panama,Airways Panama,0,8,8
+1935,Qtr 4,October,2,Victoria,De Havilland,de Havilland DH 86VH,Off Finders Island Victoria,Australia Holyman Airways,0,5,5
+1936,Qtr 1,January,17,Boliva,Junkers,Junkers JU 52?,Near Cordillera Boliva,Boliviano Aereo Lloyd,0,13,13
+1936,Qtr 1,January,21,Corsica,Cams,CAMS 53F AJIR,Off Ajaccio Corsica,France Air France,0,6,6
+1936,Qtr 1,March,14,Chile,Fairchild,Fairchild FC 219,Ovalle Chile,Chile Lan,0,5,5
+1936,Qtr 2,June,9,Sweden,Fokker,Fokker F XXIISE,Malmo Sweden,Aerotransport B A,0,1,15
+1936,Qtr 2,June,16,Norway,Junkers,Junkers JU 52/3mLN,Mt. Lihesten Norway,Luftfartskole Norske Den,0,7,7
+1936,Qtr 3,July,28,Tajikistan,Tupolev,Tupolev ANT 9?,Kulyab Tajikistan,Aeroflot,0,6,6
+1936,Qtr 3,July,31,Jersey,Saro,Saro A 19 CloudG,Off Channel Islands Jersey,Airways Guernsey,0,10,10
+1936,Qtr 3,September,24,Libya,CRDA CANT,CRDA CANT Z 506I,Benghazi Libya,SA Littoria Ala,0,9,10
+1936,Qtr 4,December,7,French,Latécoère 300 (float,Latécoère 300 (float plane.F AKGF,Off Dakar French,France AfricaAir West,0,5,5
+1937,Qtr 1,January,11,Veracruz,Lockheed 10E,Lockheed 10E ElectraX ABEO,Near Playa V icente Veracruz,Mexico Mexicana,0,9,9
+1937,Qtr 1,February,19,Queensland,Stinson Model,Stinson Model AVH UHH,McPherson Ranges Queensland,Australia Airlines of Australia,0,5,7
+1937,Qtr 3,August,2,Sudan,Savoia,Savoia  Marchetti SM73I,Wadi Halfa Sudan,Littoria Ala,0,9,9
+1937,Qtr 3,August,8,Bias,Sikorsky,Sikorsky S 43NC16930,Chilang Point Bias,China          Bay China National Aviation Corporation,0,3,11
+1938,Qtr 1,January,11,U.S.,Sikorsky,Sikorsky S 42 (flying boat)NC16734,Pago Pago U.S.,Airways World American SamoaPan,0,7,7
+1938,Qtr 1,March,7,India,Potez,Potez 621F ANQR,Datia India,France Air,0,7,7
+1938,Qtr 2,June,8,Tanzania,De Havilland,De Havilland DH 85VP,Near Singida Tanzania,Airways Wilson,0,3,3
+1938,Qtr 3,August,12,Vera,Lockheed 10E,Lockheed 10E ElectraX ABAS,Near San Andres Tuxtla Vera,Mexico           Cruz Mexicana,0,11,11
+1938,Qtr 4,November,18,Saskatchewan,Lockheed 14,Lockheed 14 ElectraCF TCL,Regina Saskatchewan,Canada Trans Canada Air Lines,0,2,2
+1938,Qtr 4,December,8,Okinawa,Nakajima,Nakajima A T2J,Off Kuba Island Okinawa,Corporation Aviation Japan,0,10,15
+1939,Qtr 1,February,12,Alaska,Fairchild,Fairchild 71(amphibious)NC9777,Juneau Alaska,Airways Marine,0,6,6
+1939,Qtr 2,June,10,The,Koolhoven,Koolhoven FK.43PH AJK,Vlissingen The,Airlines Dutch Royal NetherlandsKLM,0,3,3
+1940,Qtr 1,January,22,Indonesia,Lockheed 14 Super,Lockheed 14 Super ElectraPK AFO,Denpasar Indonesia,KNILM,0,8,9
+1940,Qtr 2,April,22,Scotland,Lockheed 14 Super,Lockheed 14 Super ElectraG AFKD,Near Loch Lomond Scotland,Airways Overseas British,0,5,5
+1940,Qtr 2,June,14,Gulf,Junkers,Junkers JU 52/3mgeOH,Off Prangli Island Gulf,Estonia         Finland of Aero O-Y,0,9,9
+1941,Qtr 3,August,27,Australila,de Havilland DH.80 Puss,de Havilland DH.80 Puss MothVH UQL,Coen Australila,Australia of Airlines,0,3,3
+1941,Qtr 3,September,1,Argyll,Consolidated,Consolidated 32 2 Liberator IAM,Campbeltown Argyll,Scotland British Overseas Airways,0,10,10
+1941,Qtr 4,October,3,Puerto,Sikorsky,Sikorsky S 42B (flying boat)NC15376,San Juan Puerto,Airways World American RicoPan,0,2,15
+1942,Qtr 4,October,3,Newfoundland,Sirkorsky 44A (flying,Sirkorsky 44A (flying boat)NC41880,Botwood Newfoundland,Airlines Export American,0,11,37
+1942,Qtr 4,December,19,Austria,Junkers,Junkers JU 52/3mOY,Near Vienna Austria,DDL,0,2,16
+1943,Qtr 1,January,9,Marine,Short,Short S 26 (flying boat)G,Near Cabo Ruivo Marine,Lisbon          Base,0,13,15
+1943,Qtr 1,February,22,Portugal,Boeing,Boeing B 314 (flying boat)NC18603,Lisbon Portugal,Airways World American Pan,0,25,39
+1943,Qtr 2,June,14,OLD,B,B  17C Flying Fortress12406,Near Mackay OLD,Australia Military - U.S. Army Air Forces,0,40,41
+1943,Qtr 4,October,19,Quebec,Consolidated,Consolidated B 243701,St. Donat Quebec,Canada Military - Royal Canadian Air Force,0,24,24
+1944,Qtr 3,July,31,Gilbert,Consolidated Catalina,Consolidated Catalina PB2Y 3R7233,Funafuti Gilbert,Pacific Ocean          Islands Pan American Airways,0,22,24
+1944,Qtr 3,August,29,Västergötland,Lockheed,Lockheed 18 56 LoadstarG,Near Lidköping Västergötland,Swden British Overseas Airways,0,11,15
+1944,Qtr 4,November,10,Yunan,Lockheed,Lockheed Hudson?,Near Kumming Yunan,China CATC,0,20,20
+1944,Qtr 4,November,29,Nicaragua,Ford,Ford 5 AT,Tegucigalpa Nicaragua,TACA,0,16,16
+1945,Qtr 2,April,23,Isle,B17G Flying,B17G Flying Fortress43 38856,North Barrule Isle,England         Man of Military - U.S. Air Force,0,31,31
+1945,Qtr 4,December,5,Bahamas,Martin PBM,Martin PBM Mariner59225,Off Smyrna Bahamas,Navy U.S. - Military,0,13,13
+1946,Qtr 1,February,21,PE,Consolidated,Consolidated 32 2 Liberator IIG,Charlottetown PE,Canada British Overseas Airways,0,1,14
+1946,Qtr 1,March,23,Cocos,Avro 691 Lancastrian,Avro 691 Lancastrian 1G AGLX,Off Ceylon Cocos,Indian Ocean          Islands British Overseas Airways /Qantas,0,10,10
+1946,Qtr 2,April,1,Northern,de Hvilland 89A Dragon,de Hvilland 89A Dragon RapideG AERZ,near Craigavad Northern,Ltd. Services Air IrelandRailway,0,6,6
+1946,Qtr 3,September,27,Stirlingshire,de Havilland 89A Dragon,de Havilland 89A Dragon RapideG AFFF,Near Milngavie Stirlingshire,Scotland Railway Air Service Ltd.,0,7,7
+1947,Qtr 1,March,18,Sri,Avro York,Avro York C1MW198,Negombo Sri,Force Air Royal - LankaMilitary,0,11,15
+1947,Qtr 2,April,13,Senegal,Avro 685 York,Avro 685 York IG AHEZ,Off Dakar Senegal,Airways American South British,0,6,15
+1947,Qtr 2,May,4,Guanacaste,Lockheed 18,Lockheed 18 LoadstarTI 84,Near Nicoya Guanacaste,Costa Rica TACA,0,11,11
+1947,Qtr 3,August,23,Persian,Short Sandringham 5 (flying,Short Sandringham 5 (flying boat)G AHZB,Bahrain Persian,Airways Overseas GulfBritish,0,10,26
+1947,Qtr 4,October,14,800,Boeing 314A,Boeing 314A NC18612,Ocean 800,Airways International NewfoundlandAmerican of east miles,0,0,69
+1948,Qtr 1,January,30,NE,Avro 688 Tudor,Avro 688 Tudor IG AHNP,Atlantic Ocean NE,Airways American South BermudaBritish of,0,31,31
+1948,Qtr 3,August,1,miles,Latecoere 631 (flying,Latecoere 631 (flying boat)F BDRC,1 miles,Atlantic Ocean         Dakar off Air France,0,52,52
+1948,Qtr 4,October,12,Azerbaijan,Ilyushin,Ilyushin Il12CCCP L1450,Near Yevlakh Azerbaijan,USSRAeroflot,0,10,10
+1949,Qtr 1,January,17,Lochgoilhead,Boeing,Boeing B 29A Superfortress44,Near Succoth Glen Lochgoilhead,Scotland Military - U.S. Air Force,0,20,20
+1949,Qtr 2,May,4,Dorset,Bristol 170 Freighter 31 Mark,Bristol 170 Freighter 31 Mark IIG AIFF,Near Portland Dorset,England Bristop Aeroplane Company,0,7,7
+1950,Qtr 1,March,10,Vietnam,Bristol 170 Freighter,Bristol 170 Freighter 21F BECR,Saigon Vietnam,Aeriens Transport de Indochinoise Societe,0,4,4
+1950,Qtr 1,March,12,Cardiff,Avro 689 Tudor,Avro 689 Tudor 5G AKBY,Llandow Airport Cardiff,Wales Fairflight Ltd.,0,80,83
+1952,Qtr 1,February,19,Cameroon,Consolidated  32 Liberator,Consolidated  32 Liberator IIF BEFX,Near Yaounde Cameroon,STAAP,0,9,9
+1952,Qtr 4,December,6,Bugaria,Lisunov,Lisunov Li 2?,Near Sofia Bugaria,TABSO,0,18,18
+1953,Qtr 1,March,18,Newfoundlandu.s.,Boeing,Boeing B 29 Superfortress44,Stephenville Newfoundlandu.s.,Force Air,0,10,10
+1953,Qtr 1,March,29,Tanganyika,Vickers 616 Viking,Vickers 616 Viking 1BVP YEY,Mtara Tanganyika,Airways African Central,0,13,13
+1953,Qtr 2,April,10,Jamaica,Lockheed,Lockheed 18 56 LodeStarVP,Off Kingston Jamaica,Airways International Caribbean,0,13,13
+1954,Qtr 2,April,13,Laos,Lockheed 18,Lockheed 18 LodestarF OALK,Xieng Kouang Laos,Raviteillement de Indochinoise Societe,0,16,23
+1955,Qtr 1,January,12,Covington,Martin 202A /,Martin 202A / DC 3N93211/N999B,Greater Cincinnati Airport Covington,Kentucky Trans World Airlines / Castleton Inc.,0,15,15
+1955,Qtr 1,February,26,Argentinade,de Havilland DH.104 Dove,de Havilland DH.104 Dove LQ XWW,Formosa Argentinade,Dove Havilland,0,6,7
+1955,Qtr 1,March,7,Mexic,Lockheed 18,Lockheed 18 LodeStarXB ZEH,Near Cuidad de Valles Mexic,Private,0,6,6
+1955,Qtr 2,April,11,Sarawak,Lockheed 749A,Lockheed 749A ConstellationVT DEP,Off Great Natuna Island Sarawak,India Air,0,19,19
+1955,Qtr 2,April,18,Cameroons,De Havilland,de Havilland DH 114 Heron 1BF,Kupe Mountains Cameroons,Aeriens Transportes des Union,0,12,14
+1955,Qtr 2,June,16,Paraguay,Lockheed,Lockheed 049 46,Near Asuncion Paraguay,Brasil do Panair,0,16,24
+1955,Qtr 3,September,29,Northwest,Avro 685 York,Avro 685 York C 1CF,Yellowknife Northwest,Canada          Territory Associated Airways,0,1,2
+1956,Qtr 3,September,9,Jordan,Curtiss,Curtiss C 46A,Amman Jordan,Airlines International Jordan,0,1,57
+1956,Qtr 4,December,31,Saudi,Lockheed,Lockheed C 121C Super Constellation54,Dhahran Saudi,Force Air U.S. - ArabiaMilitary,0,12,38
+1957,Qtr 2,May,1,Hants,Vickers Viking,Vickers Viking 1BG AJBO,Blackbushe Hants,England Eagle Aviation,0,34,35
+1957,Qtr 2,May,9,Madrid,Bristol 170,Bristol 170 FreighterEC ADI,Barajas Madrid,Spain Aviaco,0,37,37
+1957,Qtr 3,September,27,Maharashtra,Let Aero,Let Aero 45SVT DHO,Bhiwandi Maharashtra,Indiaèkoda (India) Ltd,0,3,3
+1958,Qtr 1,February,27,Lancs,Bristol 170 Freighter,Bristol 170 Freighter 21G AICS,Horwich Lancs,England Silver City Airways,0,35,42
+1958,Qtr 3,August,14,100,Lockheed 1049H Super,Lockheed 1049H Super ConstellationPH LKM,North Atlantic Ocean 100,Ireland      Bay Galway of W miles KLM Royal Dutch Airlines,0,99,99
+1958,Qtr 4,October,18,Placentia,Lockheed,Lockheed WV 2 Super Constellation141294,NAS Argentia Placentia,Newfoundland          Bay,0,11,29
+1959,Qtr 1,March,29,Central,Nord 2501,Nord 2501 NoratlasF BGZB,Near Bangui Central,Transport de Aeromaritime RepublicUnion African,0,9,9
+1959,Qtr 2,June,26,Lombardia,Lockheed 1649A,Lockheed 1649A StarlinerN7313C,Near Varese Lombardia,20 miles NW of Milan,0,68,68
+1959,Qtr 3,July,15,Kuwait,Avro 685,Avro 685 YorkEP ADE,Kuwait City Kuwait,PAS,0,32,32
+1959,Qtr 4,October,6,Suriname,Aero Commander AC,Aero Commander AC 520?,Paloemeu Suriname,Airways Eyck Kappel-Van,0,2,2
+1960,Qtr 1,January,21,Jamacia,Lockheed 1049E Super,Lockheed 1049E Super ConstellationHK 177,Montego Bay Jamacia,Avianca,0,37,46
+1960,Qtr 2,June,10,Qld.,Fokker,Fokker F 27 Friendship 100VH,Off  Mackay Qld.,Airlines Australia AustraliaTrans,0,29,29
+1961,Qtr 4,November,1,Guernsey,Bristol 170 Freighter,Bristol 170 Freighter 31MG ANWL,Les Prevosts Guernsey,Airways City Silver,0,2,10
+1961,Qtr 4,November,30,NSW,Vickers Viscount,Vickers Viscount 720VH TVC,Sydney NSW,Australia Ansett ANA,0,15,15
+1961,Qtr 4,December,24,Kodiak,Grumman,Grumman G 21A GooseN1503V,Old Harbor Kodiak,Alaska          Island Kodiak Airways,0,1,5
+1962,Qtr 1,January,22,Boliviano,Curtiss,Curtiss C 46DCP,Caranavi  Boliviano,Fomento de,0,6,6
+1962,Qtr 1,February,25,Margarita,Fairchild,Fairchild F 27YV,Portlamar Margarita,Venezuela          Island Avensa,0,23,23
+1962,Qtr 1,March,15,Philippine,Lockheed 1049H Super,Lockheed 1049H Super ConstellationN6921C,Western Pacific Ocean Philippine,Line Tiger SeaFlying,0,107,107
+1962,Qtr 2,June,22,Guadaloupe,Boeing,Boeing B 707,Basse-Terre Guadaloupe,West Indies Air France,0,112,112
+1963,Qtr 3,September,4,Aargau,Sud,Sud  Aviation Caravelle IIIHG,Durrenasch Aargau,Switzerland Swissair,0,80,80
+1965,Qtr 1,March,17,Nova,Handley Page,Handley Page HPR 7 Herald 211CF,Musquodoboit Nova,Canada          Scotia Eastern Provincial Airways,0,8,8
+1965,Qtr 2,May,5,Canary,Lockheed,Lockheed 1049G 55 Super ConstellationEC,Tenerife Canary,SpainCanary Islands          Islands Iberia Airlines,0,30,49
+1965,Qtr 3,July,15,Virgin,De Havilland,de Havilland 106AN6503D,St. Thomas Virgin,Airways Islands IslandsVirgin,0,8,12
+1966,Qtr 1,January,9,Cundinamarca,DC3(C47)FAC,DC3(C47)FAC  675,Chipaque Cundinamarca,Colombia Satena,0,11,11
+1966,Qtr 1,March,5,Mt.,Boeing,Boeing B 707,Near Gotemba City Mt.,Japan          Fuji British Overseas Airways,0,124,124
+1966,Qtr 2,June,20,QC,Curtis,Curtis C 46E,Lac Peribonka QC,Canada Norair,0,2,2
+1966,Qtr 4,October,8,Louisiana,Bell 204B,Bell 204B helicopterN1187W,Off Morgan City Louisiana,Helicopter Petroleum,0,11,11
+1967,Qtr 2,April,20,Cyprus,Bristol Britannia,Bristol Britannia 175HB ITB,Near Nicosia Cyprus,Air Globe,0,126,130
+1967,Qtr 2,June,4,Cheshire,Canadair,Canadair C 4 ArgonautG,Stockport Cheshire,England British Midland Airways,0,72,84
+1967,Qtr 4,November,4,Sussex,Sud Aviation Caravelle,Sud Aviation Caravelle 10REC BDD,Fernhurst Sussex,England Iberia Airlines,0,37,37
+1967,Qtr 4,November,20,Covington/Hebron,Convair,Convair CV 880,Cincinnati International Airport Covington/Hebron,Kentucky Trans World Airlines,0,70,82
+1968,Qtr 1,January,27,Comoro,De Havilland,de Havilland DH 114 Heron 1BF,Moroni Comoro,Comores IslandsAir,0,15,16
+1968,Qtr 2,April,20,South-West,Boeing,Boeing B 707,Near Windhoek South-West,Airways African (Namibia)South Africa,0,123,128
+1968,Qtr 4,December,31,WA,Vickers Viscount,Vickers Viscount 720VH RMQ,Port Hedland WA,Australia Mac,0,26,26
+1969,Qtr 2,June,4,Nuevo,Boeing,Boeing B 727,Near Salinas Victoria Nuevo,Mexico          Leon Compania Mexicana de Aviacion,0,79,79
+1969,Qtr 4,November,19,Glens,Fairchild,Fairchild  Hiller FH,Mt. Pilot Knob Glens,New York          Falls Mohawk Airlines,0,14,14
+1970,Qtr 2,May,2,US,McDonnell Douglas,McDonnell Douglas DC 9,Near St. Croix US,Airlines IslandsAntillean Virgin,0,23,63
+1970,Qtr 3,July,3,Gerona,de Havilland Comet,de Havilland Comet 4G APDN,Near Arbucias Gerona,Spain Dan Air Services,0,112,112
+1970,Qtr 3,September,26,Faeroe,Fokker,Fokker F 27 Friendship 300TF,Near Vagar Faeroe,Denmark          Islands Icelandair,0,8,34
+1970,Qtr 4,December,2,Bangladesh,Canadair,Canadair CL 44JTF,Dhaka Bangladesh,Cargolux,0,8,8
+1971,Qtr 2,May,25,"Chile	Aerolineas",Curtiss,"Curtiss C 46	CC","Santiago Chile	Aerolineas",ALFA - Austral Flecha,0,4,4
+1971,Qtr 4,December,24,Huanuco,Lockheed 188A,Lockheed 188A ElectraOB R,Near Puerto Inca Huanuco,Peru Lineas Aereas Nacionales SA (Peru),0,91,92
+1972,Qtr 2,May,5,Sicily,McDonnell Douglas,McDonnell Douglas DC 8,Near Carini Sicily,Italy Alitalia,0,115,115
+1972,Qtr 4,October,23,Vanuatu,Britten,Britten  Norman BN,Tanna Vanuatu,Melanesie Air,0,1,8
+1972,Qtr 4,October,27,Loire,Vickers Viscount,Vickers Viscount 724F BMCH,Near Noiretable Loire,France Air Inter,0,60,68
+1973,Qtr 1,March,3,USSRBalkan,Ilyushin,Ilyushin IL 18VLZ,Moscow USSRBalkan,Airlines Bulgarian,0,25,25
+1973,Qtr 3,July,11,Orly,Boeing,Boeing B 707,Paris Orly,France          Airport Varig,0,123,134
+1973,Qtr 3,July,24,HIAir,Volpar,Volpar C45GN234JC,Honolulu HIAir,Hawaii,0,5,5
+1973,Qtr 3,July,31,Boston,McDonnell Douglas,McDonnell Douglas DC 9,Logan Airport Boston,Massachusetts Delta Air Lines,0,89,89
+1974,Qtr 1,February,2,HIPan,Boeing,Boeing B 747N732PA,Near Honolulu HIPan,Airways World American,0,1,298
+1974,Qtr 1,February,9,Crete,Transall,Transall C 160D50,Near Souda Crete,Force Air German West - Military,0,35,40
+1974,Qtr 2,April,22,Bali,Boeing,Boeing B 707,Grogak Bali,Indonesia Pan American World Airways,0,107,107
+1974,Qtr 2,June,27,Khmer,Boeing,Boeing 307B 1 StratolinerXW,Battambang Khmer,Air RepublicCambodia,0,19,39
+1974,Qtr 3,August,11,Upper,Ilyushin,Ilyushin IL 18BTZ,Near Ouagadougou Upper,Mali  VoltaAir,0,47,60
+1975,Qtr 1,January,15,Hunary,Ilyushin,Ilyushin IL 18VHA,Budapest Hunary,Airlines Hungarian Malev,0,9,9
+1976,Qtr 2,June,1,Equatorial,Tupolev,Tupolev TU 154ACCCP,Nacias Nguema Equatorial,GuineaAeroflot,0,45,45
+1976,Qtr 3,September,10,Hrvatska,McDonnell Douglas,McDonnell Douglas DC 9,Near Gaj Hrvatska,Yugoslavia Inex Adria Aviopromet / British Airways,0,176,176
+1977,Qtr 1,March,4,Niger,McDonnell Douglas,McDonnell Douglas DC 8,Niamey Niger,Airways National Overseas,0,2,4
+1977,Qtr 2,April,19,Estonia,Antonov,Antonov AN 24?,Tapa AFB Estonia,Force Air Soviet - Military,0,21,21
+1977,Qtr 4,November,19,Island,Boeing,Boeing B 727,Near Funchal Island,Portugal         Madeira of TAP (Air Portugal),0,131,164
+1977,Qtr 4,December,24,Curacao,Piper,Piper PA 31,Willemstad Curacao,Netherlands Antilles Valley Air Service,0,10,10
+1978,Qtr 1,March,1,Los,McDonnell Douglas,McDonnell Douglas DC 10,LAX Los,California          Angeles Continental Airlines,0,2,200
+1978,Qtr 3,September,3,Guinea,Ilyushin,Ilyushin IL 183X,Conakry Guinea,Guinee Air,0,15,17
+1978,Qtr 3,September,3,Rhodesia,Vickers Viscount,Vickers Viscount 782DVP WAS,Near Kariba Rhodesia,Rhodesia (Zimbabwe)Air,0,38,56
+1978,Qtr 3,September,13,AKAlaska,De Havilland,de Havilland DHC 2N37741,Whittier AKAlaska,Travel,0,6,6
+1978,Qtr 4,October,3,Myanmar,Fokker,Fokker F 27 Friendship 600XY,Near Mandalay Myanmar,Airways Burma,0,2,44
+1978,Qtr 4,October,22,Solomon,Britten Norman,Britten Norman BN 2A TrislanderH4,Off Bellona Solomon,Airlines Islands IslandsSolomon,0,11,11
+1978,Qtr 4,December,4,Coloado,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300N25RM,Near Steamboat Springs Coloado,Airways Mountain Rocky,0,2,22
+1979,Qtr 1,March,14,Qatar,Boeing,Boeing B 727,Near Doha Airport Qatar,Airlines Jordanian Royal Alia,0,45,64
+1979,Qtr 3,July,12,Fiji,Britten Norman,Britten Norman BN 2A TrislanderDQ,Bua Fiji,Services Air Fiji,0,9,9
+1979,Qtr 3,July,31,Shetlands,Hawker Siddeley,Hawker Siddeley HS 748,Off Sumburgh Shetlands,Scotland Dan Air Services,0,17,47
+1979,Qtr 4,November,26,Jeddah,Boeing,Boeing B 707,Near At Ta'if Jeddah,Saudi Arabia Pakistan International Airlines,0,156,156
+1979,Qtr 4,November,28,Ross,McDonnell Douglas,McDonnell Douglas DC 10,Near Mt. Erebus Ross,Antarctica         Shelf Ice Air New Zealand,0,257,257
+1980,Qtr 3,August,7,Mauretania,Tupolev,Tupolev TU 154B,Nouadhibou Mauretania,TAROM,0,1,168
+1981,Qtr 3,July,18,Armenia,Canadair,Canadair CL 44D4,Near Yerevan Armenia,TAR,0,4,4
+1981,Qtr 3,August,22,Miao-li,Boeing,Boeing B 737,Near Sanyi Miao-li,Taiwan Far Eastern Air Transport,0,110,110
+1981,Qtr 3,September,18,Russian,Yakovlev,Yakovlev YAK 40 / Mil Mi,Zeleznogorsk Russian,Russian - /Military Aeroflot,0,40,40
+1981,Qtr 4,December,16,Brunei,Aerospatiale,Aerospatiale Puma9M SSC,Kuala Belait Brunei,Helicopters Bristow,0,12,12
+1982,Qtr 1,February,21,Rhode,de Havilland DHC,de Havilland DHC  6,Providence Rhode,Airlines IslandPilgrim,0,1,12
+1982,Qtr 2,April,26,Guangxi,Hawker Siddeley Trident,Hawker Siddeley Trident 2EB 266,Near Yangshuo Guangxi,China CAAC,0,112,112
+1982,Qtr 3,July,3,Gabon,Cessna 404,Cessna 404 TitanTR LYQ,Oganda Gabon,Gabon Affaires Air,0,12,12
+1983,Qtr 2,May,5,FL,Lockheed,Lockheed L 1011N334EA,En route Miami FL,Bahamas         Nassau - Eastern Air Lines,0,0,172
+1983,Qtr 3,July,11,Azuay,Boeing,Boeing B 737,Near Cuenca Azuay,Ecuador TAME,0,119,119
+1983,Qtr 3,July,16,UKBritish,Sikorsky,Sikorsky S 61N,Off Scilly Islands UKBritish,Helicopters Airways,0,20,26
+1983,Qtr 3,September,23,UAEGulf,Boeing,Boeing B 737,Near Mina Jebel Ali UAEGulf,Air,0,112,112
+1983,Qtr 4,November,8,Huila,Boeing,Boeing B 737,Lubango Huila,Angola TAAG Angola Airlines,0,130,130
+1984,Qtr 1,February,19,El,Bell,Bell UH 1H / Bell UH,Near San Gerardo El,Force Air Salvadoran - SalvadorMilitary,0,28,28
+1985,Qtr 1,February,19,Vizcaya,Boeing,Boeing B 727,Near Durango Vizcaya,Spain Iberia Airlines,0,148,148
+1985,Qtr 2,June,23,110,Boeing,Boeing B 747,Atlantic Ocean 110,India IrelandAir of West miles,0,329,329
+1986,Qtr 1,March,25,Soviet,Antonov,Antonov An 12APCCCP,Omsk Soviet,Mashinostroyeniya Obshchestvo UnionMinisterstvo,0,9,9
+1986,Qtr 2,May,18,Djibouti,Dassault Breguet,Dassault Breguet Atlantique19,Djibouti Djibouti,Aviation Naval French - Military,0,19,19
+1986,Qtr 2,June,12,Islay,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300G,Port Ellen Islay,IslandLoganair,0,1,16
+1986,Qtr 3,August,4,Leeward,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300V2,Off St. Vincent Leeward,Transport Air Islands IslandsLeeward,0,13,13
+1987,Qtr 4,November,6,Malawi,Shorts,Shorts SC 7 Skyvan 3,Ulongue Malawi,Malawi Air,0,10,10
+1987,Qtr 4,December,3,Rwanda,Cessna 404,Cessna 404 Titan5Y EJS,Near Kishwati Rwanda,Charters Air Skybird Cooper,0,14,14
+1988,Qtr 1,January,18,Sichuan,Ilyushin,Ilyushin IL 18DB,Near Chungking Sichuan,China China Southwest Airlines,0,108,108
+1988,Qtr 1,March,17,N,Boeing,Boeing B 727,Near Cucuta N,Colombia        Santander  of AVIANCA,0,143,143
+1989,Qtr 2,June,7,Surinam,McDonnell Douglas,McDonnell Douglas DC 8 Super 62N1809E,Near Paramaribo Surinam,Airways Surinam,0,176,187
+1989,Qtr 3,September,27,Tusayan,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300N75GC,Grand Canyon National Park Airport Tusayan,Arizona Grand Canyon Airlines,0,10,21
+1989,Qtr 4,October,26,USSRMilitary,Antonov,Antonov AN 2609,Petropavlovsk USSRMilitary,Force Air Soviet -,0,36,36
+1989,Qtr 4,October,28,Molokai,De Havilland,de Havilland DHC 6 Twin Otter 300N707PV,Halawa Point Molokai,Hawaii Aloha Island Air,0,20,20
+1989,Qtr 4,November,10,Lesotho,Casa 212,Casa 212 AviocarLDF 46,Maluti Mountains Lesotho,Force Defence Lesotho Royal - Military,0,18,18
+1990,Qtr 1,January,25,Lombok,Hawker Siddeley,Hawker Siddeley HS 748,Mt Rijani Lombok,Indonesia          Island Airfast Services,0,19,19
+1990,Qtr 1,January,26,Mongolia,Antonov,"Antonov AN 26V	 BNMAU",Zavkhan Mongolia,Airlines Mongolian - MIAT,0,30,30
+1990,Qtr 1,January,27,Congo,Nord,Nord 262C 66TN,Near Kinkala Congo,Force Air Congolese - Military,0,28,28
+1990,Qtr 1,January,29,Vermont,Cessna 208B Caravan,Cessna 208B Caravan IN4688B,Burlington Vermont,Express Airborne,0,2,2
+1990,Qtr 1,March,12,Sierre,Sikorsky,Sikorsky S 58ET (helilcopter)EC,Off Freetown Sierre,LeoneHelicsa,0,11,13
+1991,Qtr 1,March,16,CADuncan,Hawker,Hawker  Siddeley DH,San Diego CADuncan,Sales Aircraft,0,10,10
+1991,Qtr 2,May,13,Airzona,Cessna,Cessna 207AN6280H,Grand Canyon Airzona,Inc. Canyon Grand Air - Taxi Air,0,7,7
+1991,Qtr 2,June,1,Great,GAF Nomad,GAF Nomad N24AN8071L,Off Matthewtown Great,Inc. Flight InaguaAgape,0,2,3
+1991,Qtr 3,August,6,Cook,Britten,Britten  Norman BN,Rarotonga Cook,Air IslandsAvalki,0,6,10
+1991,Qtr 3,September,17,"Djibouti
+	Djibouti",Lockheed,Lockheed L 100,"Djibouti City Djibouti
+	Djibouti",DjiboutiDjibouti City          City,0,4,4
+1991,Qtr 4,October,30,Ellesmere,Lockheed,Lockheed CC 130E130322,Near Point Alert Ellesmere,NWT          Island,0,5,18
+1992,Qtr 3,July,24,Macedonia,Antonov,Antonov 12BKCCCP 11342,Near Skopje Macedonia,Airlines Volga-Dnepr,0,8,8
+1992,Qtr 4,October,18,Jawa,CASA,CASA 235 10PK,Near Garut Jawa,Indonesia Merpati Nusantara Airlines,0,31,31
+1992,Qtr 4,December,21,Algarve,McDonnell Douglas,McDonnell Douglas DC 10,Faro Algarve,Portugalc Holland NV,0,56,340
+1993,Qtr 3,July,1,Irian,Fokker,Fokker F 28 Fellowship 3000PK,Sorong Irian,Indonesia          Jaya Merpati Nusantara Airlines,0,41,43
+1993,Qtr 3,August,18,Guantanamo,McDonnell Douglas,McDonnell Douglas DC 8,Leeward Point Airfield Guantanamo,Cuba          Bay American International Airways,0,0,3
+1993,Qtr 4,December,3,NWT,Britten Norman,Britten Norman BN 2A Trislander7C,Tuktoyaktuk NWT,Canada Arctic Wings & Rotors,0,7,7
+1994,Qtr 2,April,26,Aichi,Airbus,Airbus A300B4 622RB,Near Komaki Aichi,Japan China Airlines (Taiwan),0,264,271
+1995,Qtr 1,January,10,Inodnesia,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300PK,Off Flores Island Inodnesia,Airlines Nusantara Merpati,0,14,14
+1995,Qtr 3,August,9,San,Boeing,Boeing B 737,Mt. Chichontepec San,El Salvador          Vincente Aviateca,0,65,65
+1995,Qtr 4,October,4,Kirghizia,Mil,Mil Mi 8MTV,Barskoon Kirghizia,Zaoldoru Aba Kirghizia,0,15,15
+1995,Qtr 4,December,20,Valle,Boeing,Boeing B 757,Near Buga Valle,Colombia         Cauca del American Airlines,0,160,164
+1996,Qtr 1,February,6,Domincan,Boeing,Boeing B 757,Off Puerto Plata Domincan,leased from Birgen Air         Nacionales RepublicAlas,0,189,189
+1996,Qtr 1,February,12,Hati,GAF Nomad,GAF Nomad N 24AN224E,Port-au-Prince Hati,Express Hati,0,11,15
+1996,Qtr 2,May,11,Miami,McDonnell Douglas,McDonnell Douglas DC 9,Everglades Miami,Florida Valu,0,110,110
+1996,Qtr 3,July,24,Manmar,Fokker,Fokker F 27 Friendship 600XY,Near Mergui Manmar,Airways Myanmar,0,8,49
+1996,Qtr 3,August,19,Yugosalvia,Ilyushin,Ilyushin IL 76TRA,Belgrade Yugosalvia,Transport Air Spair,0,12,12
+1996,Qtr 4,November,22,CAMilitary,Lockheed,Lockheed HC 130P Hercules64,Off Cape Mendocino CAMilitary,Force Air U.S. -,0,10,11
+1997,Qtr 1,January,7,Samoa,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 3005W,Near Moamoa Samoa,Airlines Polynesian,0,3,5
+1997,Qtr 3,September,13,Africa,Tupolev,Tupolev TU 154M / C,Off Namibia Africa,USAF - Military / Luftwaffe - Military,0,33,33
+1998,Qtr 3,July,17,Eritrea,Ilyushin,Ilyushin II 76UR,Asmara Eritrea,Company Transport Aviation Ukraine,0,10,10
+1998,Qtr 3,September,25,Morroco,British Aerospace,British Aerospace BAe 146,Near Nador Morroco,Air Paukn,0,38,38
+1998,Qtr 3,September,28,Cape,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 300D4,Praia Cape,Airlines Verde VerdeCabo,0,1,22
+1999,Qtr 2,June,25,Manatoba,de Havilland Canada,de Havilland Canada DHC 3 OtterC,Long Haul Lake Manatoba,Canada Blue Water Aviation Services,0,1,2
+1999,Qtr 4,November,12,Kosovo,Aerospatiale Alenia,Aerospatiale Alenia ATR 42F,Near Pristina Kosovo,charter U.N. - Fly Si,0,24,24
+2000,Qtr 1,March,5,Calilfornia,Boeing,Boeing B 737,Burbank Calilfornia,Airlines Southwest,0,0,142
+2000,Qtr 2,May,3,Guyana,Britten,Britten  Norman BN,Kurupung Guyana,Airways Guyana Trans,0,1,1
+2000,Qtr 4,October,25,Republic,Ilyushin,Ilyushin IL 18DRA,Near Batumi Republic,Force Air Russian - GeorgiaMilitary of,0,86,86
+2000,Qtr 4,December,11,Beni,Cessna,Cessna 206CP 1721,Near Sumacal Beni,BOServicio Aereo Manchupo,0,6,6
+2001,Qtr 3,August,24,Terceira,Airbus,Airbus A 330,Lajes Terceira,Azores Air Transat,0,0,304
+2002,Qtr 2,May,7,Tunisia,Boeing,Boeing B 737,Near Tunis Tunisia,Egypt,0,14,62
+2002,Qtr 3,July,16,Norfork,Sikorsky,Sikorsky S 76AG,Off Cromer Norfork,England Bristow Helicopters,0,11,11
+2002,Qtr 3,August,19,Chechnya,Mil,Mil Mi 2689RED,Khankala Chechnya,Force Air Russian - Military,0,121,147
+2002,Qtr 3,September,14,Sao,ATR,ATR 42 300PT,Paranapanema Sao,Brazil          Paulo Total  Air Lines,0,2,2
+2003,Qtr 2,June,26,Namibia,Cessna 208B Grand,Cessna 208B Grand CaravanV5 CAS,Near Rooisand Desert Ranch Namibia,Aviation Comvac,0,4,4
+2003,Qtr 3,July,1,Para,Mitsubishi MU 2B,Mitsubishi MU 2B 35PT LFX,Belem Para,Brazil Heringer Air Taxi,0,4,4
+2003,Qtr 3,July,5,Rio,Sikorsky  S 76,Sikorsky  S 76 APT YVM,Macaé Rio,Brazil         Janeiro de BHS - Brazilian Helicopter Services,0,5,5
+2003,Qtr 4,December,25,Benin,Boeing,Boeing B 727,Cotonou Benin,Guinee de Aeriens Transports des Union,0,140,161
+2004,Qtr 1,February,6,Bosnia-Herzegovina,Beechcraft Super King Air,Beechcraft Super King Air 200Z3 BAB,Bitonja Bosnia-Herzegovina,Macedonia of Government - Military,0,9,9
+2004,Qtr 1,March,4,"Azerbaijan
+	
+Bakou",Ilyushin,Ilyushin II 76UR,"Bakou Azerbaijan
+	
+Bakou",Azerbaijan Azov Avia Airlines,0,3,7
+2004,Qtr 2,June,28,Sierra,Mi,Mi  8MTV,Near Yengema Sierra,Charter UTair  - Nations LeoneUnited,0,24,24
+2004,Qtr 4,November,21,Inner,Bombardier,Bombardier CRJ200B 3072,Baotou Inner,China          Mongolia China Eastern Airlines,0,53,53
+2004,Qtr 4,November,27,Afghanstan,CASA,CASA 212 CCN960BW,Near Bagram Afghanstan,Taxi Air - Inc. Airways Presidental,0,6,6
+2005,Qtr 1,February,22,"Indonesia
+	
+Sarmi",Casa 212,"CASA 212 AviocarP 2032
+P","Off Sarmi Indonesia
+	
+Sarmi",Indonesia Indonesian National Police,0,15,18
+2005,Qtr 1,March,26,Providencia,Let,Let  410UVP,El Embrujo Providencia,Colombia          Island West Caribbean Airways,0,8,14
+2005,Qtr 3,September,5,Democtratic,Antonov,Antonov 26BER AZT,Isiro Democtratic,Airlines CongoKavatshi Republic,0,11,11
+2006,Qtr 1,February,5,Wisconson,Shorts,Shorts 360 100 /Shorts 360,Near Watertown Wisconson,Carriers Cargo Air,0,3,3
+2006,Qtr 2,June,21,Napal,de Havilland Canada,de Havilland Canada DHC 6 Twin Otter 3009N,Jumla Napal,Airlines Yeti,0,9,9
+2007,Qtr 1,March,11,Kauai,Mc Donnell Douglas 369FF,Mc Donnell Douglas 369FF RotocraftN911VC,Hanea Kauai,Hawaii Inter-Island,0,1,5
+2007,Qtr 3,September,24,DR,Let,Let 4109Q CVL,Malemba Nkulu DR,Airways CongoKaribu,0,1,6
+2008,Qtr 2,April,11,Moldova,Antonov,Antonov An 32ST,Chrisinau Moldova,Transportation Kata,0,8,8
+2008,Qtr 2,April,28,Black,Mil,Mil Mi 8TUR,Off Crimea Black,SeaNaftogaz,0,20,20
+2008,Qtr 2,May,24,Catalina,Eurocopter AS350D,Eurocopter AS350D AstarN67GE,Two Harbors Catalina,California          Island Island Express Helicopter Service,0,4,6
+2009,Qtr 2,June,1,570,Airbus,Airbus A330 203F,Atlantic Ocean 570,Brazil       Natal of northeast miles Air France,0,228,228
+2010,Qtr 3,September,21,Zabul,Sikorsky,"Sikorsky UH 60 Black Hawk	93",Chopan district Zabul,Afghanistan          Province International Security Assistance Force,0,10,13
+2010,Qtr 4,October,6,"Tajikistan	Military",Mi,Mi  8?,"Rasht Valley Tajikistan	Military",Guard National Tajik -,0,28,28
+2011,Qtr 2,April,19,"India	Pawan",Mil,"Mil Mi 172	VT","Tawang India	Pawan",Ltd. Helicopters Hans,0,18,23
+2011,Qtr 2,April,21,"Brazil	Amazonaves",Embraer/Piper,Embraer/Piper EMB 810C SenecaPT,"Manaus Brazil	Amazonaves",Taxi Air,0,7,7
+2011,Qtr 3,August,20,Nunavut,Boeing,Boeing B 737,Resolute Bay Nunavut,Canada First Air,0,12,15
+2012,Qtr 2,June,6,Mount,Sikorsly,Sikorsly S 58ETOB,Hualla Hualla Mount,Peru Heli          Mamarosa Cusco,0,14,14
+2013,Qtr 3,July,7,Alaksa,de Havilland Canada,de Havilland Canada DHC 3TN93PC,Soldotna Alaksa,Air Rediske,0,10,10
+2013,Qtr 4,November,9,Malinau,Mil,Mil   Mi,Pujungan Malinau,Borneo          district Military - Indonesian Army,0,13,21
+2013,Qtr 4,November,29,Nambia,Embraer,Embraer ERJ 190ARC9,Bwabwata National Park Nambia,Airline Mozambique,0,33,33
+2016,Qtr 1,January,8,Norrbotten,Canadair,Canadair CRJ 200SE,Akkajaure Lake Norrbotten,Sweden West Air Sweden,0,2,2
+2016,Qtr 2,April,29,"Norway	CHC",Eurocopter EC225LP Super Puma M2+,"Eurocopter EC225LP Super Puma M2+ 	LN OJF","Sorta Norway	CHC",Service Helikopter,0,13,13
+2017,Qtr 3,July,10,Mississipi,Lockheed,Lockheed KC 130T Hercules165000,Near Itta Bena Mississipi,USMC,0,16,16
+2018,Qtr 1,January,29,Suiyang,Shaanxi,Shaanxi Y 8GX,Zhengchang Suiyang,Guizhou Province          County People's Liberation Army Air Force,0,12,12
+2018,Qtr 3,September,28,Micronesia,Boeing,Boeing 737 8BKP2,Chuuk Micronesia,Niugini Air,0,1,47
+1919,Qtr 3,July,21,Illinois,FD Type,FD Type Dirigible?,Chicago Illinois,Tire Goodyear Express Air Wingfoot,10,3,0
+1935,Qtr 1,January,8,Pakistan,Wapiti?,Wapiti?,Near Karachi Pakistan,Force Air Indian,15,0,2
+1937,Qtr 3,August,27,Papua,Stinson,Stinson SR 7 ReliantVH,Wau Papua,Airways GuineaGuinea New,1,1,1
+1939,Qtr 2,May,8,Ecuador,Curtiss,Curtiss  Wright C,Guayaquil Ecuador,Force Air Ecuadorian - Military,22,1,1
+1946,Qtr 4,December,25,Jiangsu,Curtiss,Curtiss C 47?,Near Wusong Jiangsu,China CNAC,3,13,34
+1949,Qtr 3,July,13,Gujarat,Hawker,Hawker Hunter?,Jamnagar Gujarat,India          state Indian Air Force,14,0,0
+1953,Qtr 4,December,17,Mariana,Boeing,Boeing B 2944,Guam Mariana,Force Air U.S. - IslandsMilitary,8,11,16
+1954,Qtr 2,April,8,SK,Canadair,Canadair C 4,Moose Jaw SK,Canada Trans Canada Air Lines / RCAF,1,36,36
+1959,Qtr 2,June,30,Ryukyu,North American,North American F 100D,Ishikawa City Ryukyu,Okinawa          Island Military - U.S. Air Force,17,0,1
+1966,Qtr 4,December,24,Da,Canadair,Canadair CL 44D4,Binh Tahi Da,Vietnam          Nang Flying Tiger Line,125,4,4
+1968,Qtr 3,September,28,Biafra,Douglas,Douglas C 54BN90427,Port Harcourt Biafra,Nigeria Pan African Airlines,1,57,57
+1969,Qtr 1,January,5,Horley,Boeing,Boeing B 727,Gatwick Airport Horley,Surrey,2,48,62
+1969,Qtr 1,March,16,Zulia,McDonnell Douglas,McDonnell Douglas DC 9,Maracaibo Zulia,Venezuela Venezolana Internacional de Aviacion,71,84,84
+1972,Qtr 4,December,8,Chicago,Boeing,Boeing B 737,Midway Airport Chicago,Illinois United Air Lines,2,43,61
+1976,Qtr 2,May,23,Philipines,BAC,BAC One Eleven 527FKRP,Zamboanga Philipines,Lines Air Philippine,3,14,87
+1982,Qtr 1,January,13,D.C.Air,Boeing,Boeing B 737,Washington D.C.Air,Florida,4,74,79
+1998,Qtr 1,February,3,Trento,Grummand,Grummand EA 6B163045/CY,Near Cavalese Trento,Italy Military - U.S. Marine Corps,20,0,2
+2001,Qtr 1,March,24,St.,de Havilland Canada,de Havilland Canada DHC 6 Twin OtterF,Gustavia St.,French West Indies          Barthélémy Air Caraibes,1,19,19
+2021,Qtr 3,July,4,Sulu,Lockheed,Lockheed C 130H Hercules5125,Patikul Sulu,Philippines Military - Philippine Air Force,3,50,96
