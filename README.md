@@ -1,3 +1,3 @@
-# Power_BI_Dashboards
-Welcome to the Ashish Sharma's Power BI Dashboards Repository! 🚀
-This repository showcases a curated collection of insightful Power BI dashboards designed by Ashish Sharma. These dashboards are meticulously crafted to offer meaningful visualizations and analyses, empowering users to extract valuable insights from their data.
+Welcome to Ashish Sharma's Data Science Repository! 🚀
+
+This repository features a curated collection of insightful Power BI dashboards and machine learning models created by Ashish Sharma. The dashboards are designed to provide meaningful visualizations and analyses, helping users uncover valuable insights from their data. Alongside these, you'll find innovative machine learning models that demonstrate practical applications and advanced techniques in data science.
